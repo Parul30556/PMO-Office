@@ -1,0 +1,7 @@
+| **Item ID** | **Category**     | **Item Name**             | **Location** | **Assigned To** | **Status** | **Last Updated** | **Remarks**             |
+| ----------- | ---------------- | ------------------------- | ------------ | --------------- | ---------- | ---------------- | ----------------------- |
+| INV001      | Hardware         | Dell Latitude 7430 Laptop | Mumbai       | Anil Sharma     | In Use     | 2025-05-01       | Project Manager laptop  |
+| INV002      | Software License | MS Project License        | Delhi        | -               | Available  | 2025-04-15       | 3 licenses remaining    |
+| INV003      | Document         | Resource\_Plan\_Q2.xlsx   | Bangalore    | -               | Final      | 2025-05-03       | Shared on GitHub        |
+| INV004      | Tool             | GitHub Repo (PMO-Office)  | Cloud        | Team            | Active     | 2025-05-04       | Central versioning      |
+| INV005      | Hardware         | Projector - Epson EB-X49  | Pune         | Conference Room | In Use     | 2025-04-10       | Monthly review meetings |
